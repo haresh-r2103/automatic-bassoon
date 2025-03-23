@@ -9,12 +9,20 @@
 
 ---
 
+### 📊 LeetCode Stats  
+![LeetCode Stats](https://leetcard.jacoblin.cool/haresh2103?theme=dark&font=Genos&ext=contest)  
+
+
+
 ### 📊 GitHub Stats
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=haresh-r2103&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=haresh-r2103&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
+
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=haresh-r2103&bg_color=242424&color=9e4c98&line=08af13&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
@@ -56,9 +64,6 @@
 
 ---
 
-### 📊 LeetCode Stats  
-![LeetCode Stats](https://leetcard.jacoblin.cool/haresh2103?theme=dark&font=Genos&ext=contest)  
-
 ### 📫 Connect with Me
 
 <div align="left">
@@ -75,5 +80,3 @@
 
 ---
 
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=haresh-r2103&bg_color=242424&color=9e4c98&line=08af13&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
