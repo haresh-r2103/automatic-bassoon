@@ -56,6 +56,9 @@
 
 ---
 
+### 📊 LeetCode Stats  
+![LeetCode Stats](https://leetcard.jacoblin.cool/haresh2103?theme=dark&font=Genos&ext=contest)  
+
 ### 📫 Connect with Me
 
 <div align="left">
@@ -72,8 +75,6 @@
 
 ---
 
-### 📊 LeetCode Stats  
-![LeetCode Stats](https://leetcard.jacoblin.cool/haresh2103?theme=dark&font=Genos&ext=contest)  
 
 
 ### 🐍 GitHub Contribution Snake Animation
