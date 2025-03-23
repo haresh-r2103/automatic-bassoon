@@ -68,6 +68,3 @@
 
 ###
 
-<div align="right">
-  <img height="200" src="https://images.hdqwalls.com/download/the-batman-robert-pattinson-movie-f0-2048x2048.jpg"  />
-</div>
