@@ -8,7 +8,7 @@
 - 💻 **Proficient in C++ & Python**  
 - 🌍 **Tech Explorer | Constant Learner | Innovation Seeker**  
 - 👨‍💼 **AI Lead @ GDG OnCampus REC**  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/GDG_Logo.png/320px-GDG_Logo.png" height="25" alt="GDG logo"/>
+  
 
 > _"Turning ideas into scalable systems with code and curiosity."_
 
