@@ -6,7 +6,8 @@
 - 💡 **Passionate about AI, Algorithms, and Scalable Systems**  
 - 🛠 **Building AI-driven solutions & optimizing complex problems**  
 - 💻 **Proficient in C++ & Python**  
-- 🌍 **Tech Explorer | Constant Learner | Innovation Seeker**
+- 🌍 **Tech Explorer | Constant Learner | Innovation Seeker**  
+- 👨‍💼 **AI Lead @ GDG OnCampus REC** <img src="https://seeklogo.com/images/G/google-developers-logo-A7FD710FE3-seeklogo.com.png" height="20" />
 
 > _"Turning ideas into scalable systems with code and curiosity."_
 
